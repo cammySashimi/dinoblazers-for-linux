@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <object>
   <spriteName>spr_sprite20</spriteName>
-  <solid>0</solid>
+  <solid>-1</solid>
   <visible>-1</visible>
   <depth>100</depth>
   <persistent>0</persistent>
@@ -420,32 +420,6 @@
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments/>
-      </action>
-    </event>
-    <event ename="obj_player" eventtype="4">
-      <action>
-        <libid>1</libid>
-        <id>101</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <useapplyto>-1</useapplyto>
-        <isquestion>0</isquestion>
-        <exetype>1</exetype>
-        <functionname>action_move</functionname>
-        <codestring/>
-        <whoName>other</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>1</kind>
-            <string>000010000</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>0</string>
-          </argument>
-        </arguments>
       </action>
     </event>
   </events>

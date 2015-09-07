@@ -95,7 +95,7 @@
           </argument>
           <argument>
             <kind>4</kind>
-            <string>0</string>
+            <string>1</string>
           </argument>
         </arguments>
       </action>
@@ -325,8 +325,49 @@
           </argument>
         </arguments>
       </action>
-    </event>
-    <event ename="obj_rock2" eventtype="4">
+      <action>
+        <libid>1</libid>
+        <id>612</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <useapplyto>-1</useapplyto>
+        <isquestion>-1</isquestion>
+        <exetype>1</exetype>
+        <functionname>action_if_variable</functionname>
+        <codestring/>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>0</kind>
+            <string>distance_to_object(obj_rock2)</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>2</string>
+          </argument>
+          <argument>
+            <kind>4</kind>
+            <string>1</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>422</id>
+        <kind>1</kind>
+        <userelative>0</userelative>
+        <useapplyto>0</useapplyto>
+        <isquestion>0</isquestion>
+        <exetype>0</exetype>
+        <functionname/>
+        <codestring/>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments/>
+      </action>
       <action>
         <libid>1</libid>
         <id>611</id>
@@ -343,7 +384,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>var_hp</string>
+            <string>instance_nearest(x,y,obj_rock2).var_hp</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -360,6 +401,21 @@
         <isquestion>0</isquestion>
         <exetype>1</exetype>
         <functionname>action_kill_object</functionname>
+        <codestring/>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments/>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>424</id>
+        <kind>2</kind>
+        <userelative>0</userelative>
+        <useapplyto>0</useapplyto>
+        <isquestion>0</isquestion>
+        <exetype>0</exetype>
+        <functionname/>
         <codestring/>
         <whoName>self</whoName>
         <relative>0</relative>
