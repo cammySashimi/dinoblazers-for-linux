@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <object>
-  <spriteName>sprite22</spriteName>
+  <spriteName>&lt;undefined&gt;</spriteName>
   <solid>0</solid>
   <visible>-1</visible>
   <depth>0</depth>
@@ -59,7 +59,7 @@
         <arguments/>
       </action>
     </event>
-    <event ename="rock" eventtype="4">
+    <event ename="obj_rock" eventtype="4">
       <action>
         <libid>1</libid>
         <id>203</id>

@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>sound0</sound>
+            <sound>snd_sound0</sound>
           </argument>
         </arguments>
       </action>
@@ -45,7 +45,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>sound2</sound>
+            <sound>snd_sound2</sound>
           </argument>
           <argument>
             <kind>3</kind>

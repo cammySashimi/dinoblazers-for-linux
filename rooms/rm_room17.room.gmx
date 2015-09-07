@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<room>
+  <caption/>
+  <width>640</width>
+  <height>480</height>
+  <hsnap>32</hsnap>
+  <vsnap>32</vsnap>
+  <isometric>0</isometric>
+  <speed>30</speed>
+  <persistent>0</persistent>
+  <colour>12632256</colour>
+  <showcolour>-1</showcolour>
+  <code/>
+  <enableViews>0</enableViews>
+  <clearViewBackground>-1</clearViewBackground>
+  <makerSettings>
+    <isSet>0</isSet>
+    <w>640</w>
+    <h>480</h>
+    <showGrid>0</showGrid>
+    <showObjects>0</showObjects>
+    <showTiles>0</showTiles>
+    <showBackgrounds>0</showBackgrounds>
+    <showForegrounds>0</showForegrounds>
+    <showViews>0</showViews>
+    <deleteUnderlyingObj>0</deleteUnderlyingObj>
+    <deleteUnderlyingTiles>0</deleteUnderlyingTiles>
+    <page>-1064371524</page>
+    <xoffset>-1403750870</xoffset>
+    <yoffset>2026862026</yoffset>
+  </makerSettings>
+  <backgrounds>
+    <background foreground="0" hspeed="0" htiled="-1" name="spr_background0" stretch="0" visible="-1" vspeed="0" vtiled="-1" x="0" y="0"/>
+    <background foreground="0" hspeed="0" htiled="-1" name="" stretch="0" visible="0" vspeed="0" vtiled="-1" x="0" y="0"/>
+    <background foreground="0" hspeed="0" htiled="-1" name="" stretch="0" visible="0" vspeed="0" vtiled="-1" x="0" y="0"/>
+    <background foreground="0" hspeed="0" htiled="-1" name="" stretch="0" visible="0" vspeed="0" vtiled="-1" x="0" y="0"/>
+    <background foreground="0" hspeed="0" htiled="-1" name="" stretch="0" visible="0" vspeed="0" vtiled="-1" x="0" y="0"/>
+    <background foreground="0" hspeed="0" htiled="-1" name="" stretch="0" visible="0" vspeed="0" vtiled="-1" x="0" y="0"/>
+    <background foreground="0" hspeed="0" htiled="-1" name="" stretch="0" visible="0" vspeed="0" vtiled="-1" x="0" y="0"/>
+    <background foreground="0" hspeed="0" htiled="-1" name="" stretch="0" visible="0" vspeed="0" vtiled="-1" x="0" y="0"/>
+  </backgrounds>
+  <views>
+    <view hborder="32" hport="480" hspeed="-1" hview="480" objName="&lt;undefined&gt;" vborder="32" visible="0" vspeed="-1" wport="640" wview="640" xport="0" xview="0" yport="0" yview="0"/>
+    <view hborder="32" hport="480" hspeed="-1" hview="480" objName="&lt;undefined&gt;" vborder="32" visible="0" vspeed="-1" wport="640" wview="640" xport="0" xview="0" yport="0" yview="0"/>
+    <view hborder="32" hport="480" hspeed="-1" hview="480" objName="&lt;undefined&gt;" vborder="32" visible="0" vspeed="-1" wport="640" wview="640" xport="0" xview="0" yport="0" yview="0"/>
+    <view hborder="32" hport="480" hspeed="-1" hview="480" objName="&lt;undefined&gt;" vborder="32" visible="0" vspeed="-1" wport="640" wview="640" xport="0" xview="0" yport="0" yview="0"/>
+    <view hborder="32" hport="480" hspeed="-1" hview="480" objName="&lt;undefined&gt;" vborder="32" visible="0" vspeed="-1" wport="640" wview="640" xport="0" xview="0" yport="0" yview="0"/>
+    <view hborder="32" hport="480" hspeed="-1" hview="480" objName="&lt;undefined&gt;" vborder="32" visible="0" vspeed="-1" wport="640" wview="640" xport="0" xview="0" yport="0" yview="0"/>
+    <view hborder="32" hport="480" hspeed="-1" hview="480" objName="&lt;undefined&gt;" vborder="32" visible="0" vspeed="-1" wport="640" wview="640" xport="0" xview="0" yport="0" yview="0"/>
+    <view hborder="32" hport="480" hspeed="-1" hview="480" objName="&lt;undefined&gt;" vborder="32" visible="0" vspeed="-1" wport="640" wview="640" xport="0" xview="0" yport="0" yview="0"/>
+  </views>
+  <instances>
+    <instance code="" colour="4294967295" locked="0" name="inst_103030" objName="obj_one" rotation="0.0" scaleX="1.0" scaleY="1.0" x="160" y="320"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_103031" objName="obj_two" rotation="0.0" scaleX="1.0" scaleY="1.0" x="224" y="320"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_103032" objName="obj_three" rotation="0.0" scaleX="1.0" scaleY="1.0" x="288" y="320"/>
+    <instance code="" colour="4294967295" locked="-1" name="inst_103033" objName="obj_four" rotation="0.0" scaleX="1.0" scaleY="1.0" x="352" y="320"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_103034" objName="obj_play_button" rotation="0.0" scaleX="1.0" scaleY="1.0" x="544" y="0"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_103035" objName="obj_four" rotation="0.0" scaleX="1.0" scaleY="1.0" x="160" y="288"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_103036" objName="obj_three" rotation="0.0" scaleX="1.0" scaleY="1.0" x="224" y="288"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_103037" objName="obj_two" rotation="0.0" scaleX="1.0" scaleY="1.0" x="288" y="288"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_103038" objName="obj_one" rotation="0.0" scaleX="1.0" scaleY="1.0" x="352" y="288"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_103039" objName="obj_three" rotation="0.0" scaleX="1.0" scaleY="1.0" x="416" y="320"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_103040" objName="obj_two" rotation="0.0" scaleX="1.0" scaleY="1.0" x="480" y="320"/>
+    <instance code="" colour="4294967295" locked="-1" name="inst_103041" objName="obj_two" rotation="0.0" scaleX="1.0" scaleY="1.0" x="416" y="288"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_103042" objName="obj_three" rotation="0.0" scaleX="1.0" scaleY="1.0" x="480" y="288"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_103043" objName="obj_title" rotation="0.0" scaleX="1.0" scaleY="1.0" x="224" y="0"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_103044" objName="obj_four" rotation="0.0" scaleX="1.0" scaleY="1.0" x="480" y="256"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_103045" objName="obj_three" rotation="0.0" scaleX="1.0" scaleY="1.0" x="416" y="256"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_103046" objName="obj_two" rotation="0.0" scaleX="1.0" scaleY="1.0" x="352" y="256"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_103047" objName="obj_one" rotation="0.0" scaleX="1.0" scaleY="1.0" x="288" y="256"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_103048" objName="obj_two" rotation="0.0" scaleX="1.0" scaleY="1.0" x="224" y="256"/>
+    <instance code="" colour="4294967295" locked="-1" name="inst_103049" objName="obj_three" rotation="0.0" scaleX="1.0" scaleY="1.0" x="160" y="256"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_103050" objName="obj_one" rotation="0.0" scaleX="1.0" scaleY="1.0" x="480" y="224"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_103051" objName="obj_two" rotation="0.0" scaleX="1.0" scaleY="1.0" x="416" y="224"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_103052" objName="obj_three" rotation="0.0" scaleX="1.0" scaleY="1.0" x="352" y="224"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_103053" objName="obj_four" rotation="0.0" scaleX="1.0" scaleY="1.0" x="288" y="224"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_103054" objName="obj_three" rotation="0.0" scaleX="1.0" scaleY="1.0" x="224" y="224"/>
+    <instance code="" colour="4294967295" locked="-1" name="inst_103055" objName="obj_two" rotation="0.0" scaleX="1.0" scaleY="1.0" x="160" y="224"/>
+  </instances>
+  <tiles/>
+  <PhysicsWorld>0</PhysicsWorld>
+  <PhysicsWorldTop>0</PhysicsWorldTop>
+  <PhysicsWorldLeft>0</PhysicsWorldLeft>
+  <PhysicsWorldRight>640</PhysicsWorldRight>
+  <PhysicsWorldBottom>480</PhysicsWorldBottom>
+  <PhysicsWorldGravityX>0.0</PhysicsWorldGravityX>
+  <PhysicsWorldGravityY>10.0</PhysicsWorldGravityY>
+  <PhysicsWorldPixToMeters>0.1</PhysicsWorldPixToMeters>
+</room>

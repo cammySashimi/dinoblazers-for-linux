@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <object>
-  <spriteName>sprite31</spriteName>
+  <spriteName>spr_sprite31</spriteName>
   <solid>-1</solid>
   <visible>-1</visible>
   <depth>0</depth>
   <persistent>0</persistent>
-  <maskName>sprite31</maskName>
+  <maskName>spr_sprite31</maskName>
   <parentName>&lt;undefined&gt;</parentName>
   <events>
     <event enumb="0" eventtype="0">
@@ -75,7 +75,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>gun</sound>
+            <sound>snd_gun</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -119,7 +119,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>debris</object>
+            <object>obj_debris</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -132,7 +132,7 @@
         </arguments>
       </action>
     </event>
-    <event ename="square" eventtype="4">
+    <event ename="obj_square" eventtype="4">
       <action>
         <libid>1</libid>
         <id>203</id>
@@ -231,7 +231,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>baby</sound>
+            <sound>snd_baby</sound>
           </argument>
         </arguments>
       </action>
@@ -251,7 +251,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>baby</sound>
+            <sound>snd_baby</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -280,7 +280,7 @@
         </arguments>
       </action>
     </event>
-    <event ename="triangle" eventtype="4">
+    <event ename="obj_square_triangle" eventtype="4">
       <action>
         <libid>1</libid>
         <id>203</id>
@@ -379,7 +379,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>baby</sound>
+            <sound>snd_baby</sound>
           </argument>
         </arguments>
       </action>
@@ -399,7 +399,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>baby</sound>
+            <sound>snd_baby</sound>
           </argument>
           <argument>
             <kind>3</kind>

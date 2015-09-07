@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<room>
+  <caption/>
+  <width>640</width>
+  <height>480</height>
+  <hsnap>32</hsnap>
+  <vsnap>32</vsnap>
+  <isometric>0</isometric>
+  <speed>30</speed>
+  <persistent>0</persistent>
+  <colour>12632256</colour>
+  <showcolour>-1</showcolour>
+  <code/>
+  <enableViews>0</enableViews>
+  <clearViewBackground>-1</clearViewBackground>
+  <makerSettings>
+    <isSet>0</isSet>
+    <w>640</w>
+    <h>480</h>
+    <showGrid>0</showGrid>
+    <showObjects>0</showObjects>
+    <showTiles>0</showTiles>
+    <showBackgrounds>0</showBackgrounds>
+    <showForegrounds>0</showForegrounds>
+    <showViews>0</showViews>
+    <deleteUnderlyingObj>0</deleteUnderlyingObj>
+    <deleteUnderlyingTiles>0</deleteUnderlyingTiles>
+    <page>13902200</page>
+    <xoffset>13901864</xoffset>
+    <yoffset>13901920</yoffset>
+  </makerSettings>
+  <backgrounds>
+    <background foreground="0" hspeed="0" htiled="-1" name="spr_background1" stretch="0" visible="-1" vspeed="0" vtiled="-1" x="0" y="0"/>
+    <background foreground="0" hspeed="0" htiled="-1" name="" stretch="0" visible="0" vspeed="0" vtiled="-1" x="0" y="0"/>
+    <background foreground="0" hspeed="0" htiled="-1" name="" stretch="0" visible="0" vspeed="0" vtiled="-1" x="0" y="0"/>
+    <background foreground="0" hspeed="0" htiled="-1" name="" stretch="0" visible="0" vspeed="0" vtiled="-1" x="0" y="0"/>
+    <background foreground="0" hspeed="0" htiled="-1" name="" stretch="0" visible="0" vspeed="0" vtiled="-1" x="0" y="0"/>
+    <background foreground="0" hspeed="0" htiled="-1" name="" stretch="0" visible="0" vspeed="0" vtiled="-1" x="0" y="0"/>
+    <background foreground="0" hspeed="0" htiled="-1" name="" stretch="0" visible="0" vspeed="0" vtiled="-1" x="0" y="0"/>
+    <background foreground="0" hspeed="0" htiled="-1" name="" stretch="0" visible="0" vspeed="0" vtiled="-1" x="0" y="0"/>
+  </backgrounds>
+  <views>
+    <view hborder="32" hport="480" hspeed="-1" hview="480" objName="&lt;undefined&gt;" vborder="32" visible="0" vspeed="-1" wport="640" wview="640" xport="0" xview="0" yport="0" yview="0"/>
+    <view hborder="32" hport="480" hspeed="-1" hview="480" objName="&lt;undefined&gt;" vborder="32" visible="0" vspeed="-1" wport="640" wview="640" xport="0" xview="0" yport="0" yview="0"/>
+    <view hborder="32" hport="480" hspeed="-1" hview="480" objName="&lt;undefined&gt;" vborder="32" visible="0" vspeed="-1" wport="640" wview="640" xport="0" xview="0" yport="0" yview="0"/>
+    <view hborder="32" hport="480" hspeed="-1" hview="480" objName="&lt;undefined&gt;" vborder="32" visible="0" vspeed="-1" wport="640" wview="640" xport="0" xview="0" yport="0" yview="0"/>
+    <view hborder="32" hport="480" hspeed="-1" hview="480" objName="&lt;undefined&gt;" vborder="32" visible="0" vspeed="-1" wport="640" wview="640" xport="0" xview="0" yport="0" yview="0"/>
+    <view hborder="32" hport="480" hspeed="-1" hview="480" objName="&lt;undefined&gt;" vborder="32" visible="0" vspeed="-1" wport="640" wview="640" xport="0" xview="0" yport="0" yview="0"/>
+    <view hborder="32" hport="480" hspeed="-1" hview="480" objName="&lt;undefined&gt;" vborder="32" visible="0" vspeed="-1" wport="640" wview="640" xport="0" xview="0" yport="0" yview="0"/>
+    <view hborder="32" hport="480" hspeed="-1" hview="480" objName="&lt;undefined&gt;" vborder="32" visible="0" vspeed="-1" wport="640" wview="640" xport="0" xview="0" yport="0" yview="0"/>
+  </views>
+  <instances>
+    <instance code="" colour="4294967295" locked="0" name="inst_102755" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="0" y="0"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102756" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="0" y="32"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102757" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="0" y="64"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102758" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="0" y="96"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102759" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="0" y="128"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102760" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="0" y="160"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102761" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="0" y="192"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102762" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="0" y="224"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102763" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="0" y="256"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102764" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="0" y="288"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102765" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="0" y="320"/>
+    <instance code="" colour="4294967295" locked="-1" name="inst_102766" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="0" y="352"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102767" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="0" y="384"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102768" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="0" y="416"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102769" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="0" y="448"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102770" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="32" y="448"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102771" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="64" y="448"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102772" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="96" y="448"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102773" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="128" y="448"/>
+    <instance code="" colour="4294967295" locked="-1" name="inst_102774" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="160" y="448"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102775" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="192" y="448"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102776" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="224" y="448"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102777" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="256" y="448"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102778" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="288" y="448"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102779" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="320" y="448"/>
+    <instance code="" colour="4294967295" locked="-1" name="inst_102780" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="352" y="448"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102781" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="384" y="448"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102782" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="416" y="448"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102783" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="448" y="448"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102784" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="480" y="448"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102785" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="512" y="448"/>
+    <instance code="" colour="4294967295" locked="-1" name="inst_102786" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="544" y="448"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102787" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="576" y="448"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102788" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="608" y="448"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102789" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="608" y="416"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102790" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="608" y="384"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102791" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="608" y="352"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102792" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="608" y="320"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102793" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="608" y="288"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102794" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="608" y="192"/>
+    <instance code="" colour="4294967295" locked="-1" name="inst_102795" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="608" y="160"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102796" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="608" y="128"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102797" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="608" y="96"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102798" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="608" y="64"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102799" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="608" y="32"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102800" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="608" y="0"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102801" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="576" y="0"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102802" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="544" y="0"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102803" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="512" y="0"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102804" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="480" y="0"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102805" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="448" y="0"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102806" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="416" y="0"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102807" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="384" y="0"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102808" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="352" y="0"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102809" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="320" y="0"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102810" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="288" y="0"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102811" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="256" y="0"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102812" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="224" y="0"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102813" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="192" y="0"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102814" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="160" y="0"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102815" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="128" y="0"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102816" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="96" y="0"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102817" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="64" y="0"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102818" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="32" y="0"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102819" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="320" y="224"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102820" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="320" y="256"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102821" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="352" y="192"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102822" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="384" y="224"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102823" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="384" y="256"/>
+    <instance code="" colour="4294967295" locked="-1" name="inst_102824" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="352" y="288"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102825" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="320" y="288"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102826" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="384" y="288"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102827" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="384" y="192"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102828" objName="obj_rock" rotation="0.0" scaleX="1.0" scaleY="1.0" x="320" y="192"/>
+    <instance code="" colour="4294967295" locked="-1" name="inst_102829" objName="obj_player" rotation="0.0" scaleX="1.0" scaleY="1.0" x="64" y="256"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102830" objName="obj_key" rotation="0.0" scaleX="1.0" scaleY="1.0" x="352" y="224"/>
+    <instance code="" colour="4294967295" locked="0" name="inst_102831" objName="obj_key2" rotation="0.0" scaleX="1.0" scaleY="1.0" x="352" y="256"/>
+  </instances>
+  <tiles/>
+  <PhysicsWorld>0</PhysicsWorld>
+  <PhysicsWorldTop>0</PhysicsWorldTop>
+  <PhysicsWorldLeft>0</PhysicsWorldLeft>
+  <PhysicsWorldRight>640</PhysicsWorldRight>
+  <PhysicsWorldBottom>480</PhysicsWorldBottom>
+  <PhysicsWorldGravityX>0.0</PhysicsWorldGravityX>
+  <PhysicsWorldGravityY>10.0</PhysicsWorldGravityY>
+  <PhysicsWorldPixToMeters>0.1</PhysicsWorldPixToMeters>
+</room>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <object>
-  <spriteName>sprite20</spriteName>
+  <spriteName>spr_sprite20</spriteName>
   <solid>0</solid>
   <visible>-1</visible>
   <depth>100</depth>
@@ -94,7 +94,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>sprite21</sprite>
+            <sprite>spr_sprite21</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -189,7 +189,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>break</sound>
+            <sound>spr_break</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -228,7 +228,7 @@
         <arguments/>
       </action>
     </event>
-    <event ename="triangle" eventtype="4">
+    <event ename="square_triangle" eventtype="4">
       <action>
         <libid>1</libid>
         <id>203</id>
@@ -288,7 +288,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>sprite21</sprite>
+            <sprite>spr_sprite21</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -398,7 +398,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>break</sound>
+            <sound>spr_break</sound>
           </argument>
           <argument>
             <kind>3</kind>

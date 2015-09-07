@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <object>
-  <spriteName>sprite40</spriteName>
+  <spriteName>spr_sprite40</spriteName>
   <solid>0</solid>
   <visible>-1</visible>
   <depth>0</depth>
@@ -55,7 +55,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>key</object>
+            <object>obj_key</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -173,7 +173,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>sprite40</sprite>
+            <sprite>spr_sprite40</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -229,7 +229,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>sprite40</sprite>
+            <sprite>spr_sprite40</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -313,7 +313,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>sprite42</sprite>
+            <sprite>spr_sprite42</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -326,7 +326,7 @@
         </arguments>
       </action>
     </event>
-    <event ename="rock2" eventtype="4">
+    <event ename="obj_rock2" eventtype="4">
       <action>
         <libid>1</libid>
         <id>611</id>
@@ -367,7 +367,7 @@
         <arguments/>
       </action>
     </event>
-    <event ename="octogon" eventtype="4">
+    <event ename="obj_octogon" eventtype="4">
       <action>
         <libid>1</libid>
         <id>203</id>
@@ -384,7 +384,7 @@
         <arguments/>
       </action>
     </event>
-    <event ename="key" eventtype="4">
+    <event ename="obj_key" eventtype="4">
       <action>
         <libid>1</libid>
         <id>203</id>

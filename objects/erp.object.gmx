@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <object>
-  <spriteName>sprite25</spriteName>
+  <spriteName>spr_sprite25</spriteName>
   <solid>0</solid>
   <visible>-1</visible>
   <depth>0</depth>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <object>
-  <spriteName>sprite16</spriteName>
+  <spriteName>spr_sprite16</spriteName>
   <solid>0</solid>
   <visible>-1</visible>
   <depth>0</depth>
@@ -95,7 +95,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>oh no</sound>
+            <sound>spr_oh no</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -134,7 +134,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>stop</sound>
+            <sound>spr_stop</sound>
           </argument>
           <argument>
             <kind>3</kind>

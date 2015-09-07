@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <object>
-  <spriteName>sprite10</spriteName>
+  <spriteName>spr_sprite10</spriteName>
   <solid>0</solid>
   <visible>-1</visible>
   <depth>0</depth>
@@ -45,7 +45,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>sprite14</sprite>
+            <sprite>spr_sprite14</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -108,7 +108,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>sprite15</sprite>
+            <sprite>spr_sprite15</sprite>
           </argument>
           <argument>
             <kind>0</kind>
