@@ -2,7 +2,7 @@
 <Config>
     <Options>
         <option_sync_vertex>0</option_sync_vertex>
-        <option_fullscreen>true</option_fullscreen>
+        <option_fullscreen>false</option_fullscreen>
         <option_sizeable>false</option_sizeable>
         <option_stayontop>false</option_stayontop>
         <option_aborterrors>false</option_aborterrors>

@@ -186,10 +186,10 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>var_target = instance_nearest(x, y, obj_parent)&#13;
+            <string>var_target = instance_nearest(x, y, obj_player)&#13;
 if distance_to_object(var_target) &lt;= 150 {&#13;
 	var_shooter = 1&#13;
-	direction = point_direction(x, y, target.x, target.y)&#13;
+	direction = point_direction(x, y, var_target.x, var_target.y)&#13;
 } else {&#13;
 	var_shooter = 0&#13;
 }</string>

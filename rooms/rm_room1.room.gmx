@@ -24,10 +24,10 @@
     <showForegrounds>0</showForegrounds>
     <showViews>0</showViews>
     <deleteUnderlyingObj>0</deleteUnderlyingObj>
-    <deleteUnderlyingTiles>0</deleteUnderlyingTiles>
-    <page>-340926950</page>
-    <xoffset>1876422997</xoffset>
-    <yoffset>-1075840593</yoffset>
+    <deleteUnderlyingTiles>-1</deleteUnderlyingTiles>
+    <page>1</page>
+    <xoffset>0</xoffset>
+    <yoffset>0</yoffset>
   </makerSettings>
   <backgrounds>
     <background foreground="0" hspeed="0" htiled="-1" name="spr_background1" stretch="0" visible="-1" vspeed="0" vtiled="-1" x="0" y="0"/>
