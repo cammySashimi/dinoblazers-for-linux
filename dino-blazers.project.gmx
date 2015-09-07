@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<assets>
+  <Configs name="configs">
+    <Config>Configs\Default</Config>
+  </Configs>
+  <sprites name="sprites">
+    <sprite>sprites\sprite0</sprite>
+    <sprite>sprites\sprite1</sprite>
+    <sprite>sprites\sprite2</sprite>
+    <sprite>sprites\sprite4</sprite>
+    <sprite>sprites\sprite5</sprite>
+    <sprite>sprites\sprite6</sprite>
+    <sprite>sprites\sprite8</sprite>
+    <sprite>sprites\sprite10</sprite>
+    <sprite>sprites\sprite11</sprite>
+    <sprite>sprites\sprite12</sprite>
+    <sprite>sprites\sprite13</sprite>
+    <sprite>sprites\sprite14</sprite>
+    <sprite>sprites\sprite15</sprite>
+    <sprite>sprites\sprite16</sprite>
+    <sprite>sprites\sprite17</sprite>
+    <sprite>sprites\sprite18</sprite>
+    <sprite>sprites\sprite19</sprite>
+    <sprite>sprites\sprite20</sprite>
+    <sprite>sprites\sprite21</sprite>
+    <sprite>sprites\sprite22</sprite>
+    <sprite>sprites\sprite23</sprite>
+    <sprite>sprites\sprite24</sprite>
+    <sprite>sprites\sprite25</sprite>
+    <sprite>sprites\sprite26</sprite>
+    <sprite>sprites\sprite27</sprite>
+    <sprite>sprites\sprite28</sprite>
+    <sprite>sprites\sprite29</sprite>
+    <sprite>sprites\sprite30</sprite>
+    <sprite>sprites\sprite31</sprite>
+    <sprite>sprites\sprite33</sprite>
+    <sprite>sprites\sprite34</sprite>
+    <sprite>sprites\sprite35</sprite>
+    <sprite>sprites\sprite36</sprite>
+    <sprite>sprites\sprite37</sprite>
+    <sprite>sprites\sprite39</sprite>
+    <sprite>sprites\sprite40</sprite>
+    <sprite>sprites\sprite41</sprite>
+    <sprite>sprites\sprite42</sprite>
+  </sprites>
+  <sounds name="sound">
+    <sound>sound\sound0</sound>
+    <sound>sound\baby</sound>
+    <sound>sound\sound2</sound>
+    <sound>sound\Dinoblazors</sound>
+    <sound>sound\blah</sound>
+    <sound>sound\woh</sound>
+    <sound>sound\triangle</sound>
+    <sound>sound\triangle2</sound>
+    <sound>sound\agh</sound>
+    <sound>sound\gun</sound>
+    <sound>sound\key_got</sound>
+    <sound>sound\oma</sound>
+    <sound>sound\square</sound>
+    <sound>sound\square2</sound>
+    <sound>sound\break</sound>
+    <sound>sound\stop</sound>
+    <sound>sound\get you</sound>
+    <sound>sound\octopod</sound>
+    <sound>sound\oh no</sound>
+    <sound>sound\hepl</sound>
+    <sound>sound\fire1</sound>
+    <sound>sound\fire2</sound>
+    <sound>sound\fire3</sound>
+  </sounds>
+  <backgrounds name="background">
+    <background>background\background0</background>
+    <background>background\background1</background>
+    <background>background\background2</background>
+  </backgrounds>
+  <paths name="paths"/>
+  <scripts name="scripts"/>
+  <shaders name="shaders"/>
+  <fonts name="fonts">
+    <font>fonts\font0</font>
+  </fonts>
+  <timelines name="timelines"/>
+  <objects name="objects">
+    <object>objects\title</object>
+    <object>objects\play_button</object>
+    <object>objects\player</object>
+    <object>objects\rock</object>
+    <object>objects\triangle</object>
+    <object>objects\plants</object>
+    <object>objects\octopod</object>
+    <object>objects\key</object>
+    <object>objects\lock</object>
+    <object>objects\octogon</object>
+    <object>objects\square</object>
+    <object>objects\rock2</object>
+    <object>objects\debris</object>
+    <object>objects\erp</object>
+    <object>objects\heff</object>
+    <object>objects\key2</object>
+    <object>objects\lock2</object>
+    <object>objects\octopod2</object>
+    <object>objects\schnart</object>
+    <object>objects\yarg</object>
+    <object>objects\cheat_codes</object>
+    <object>objects\1</object>
+    <object>objects\2</object>
+    <object>objects\3</object>
+    <object>objects\4</object>
+    <object>objects\bosser</object>
+    <object>objects\runny</object>
+    <object>objects\explosion</object>
+    <object>objects\parent</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\room0</room>
+    <room>rooms\room1</room>
+    <room>rooms\room2</room>
+    <room>rooms\room3</room>
+    <room>rooms\room4</room>
+    <room>rooms\room5</room>
+    <room>rooms\room6</room>
+    <room>rooms\room7</room>
+    <room>rooms\room8</room>
+    <room>rooms\room9</room>
+    <room>rooms\room10</room>
+    <room>rooms\room11</room>
+    <room>rooms\room12</room>
+    <room>rooms\room13</room>
+    <room>rooms\room14</room>
+    <room>rooms\room15</room>
+    <room>rooms\room16</room>
+    <room>rooms\room17</room>
+  </rooms>
+  <constants number="0"/>
+  <help>
+    <rtf>help.rtf</rtf>
+  </help>
+</assets>
