@@ -77,7 +77,7 @@
   <scripts name="scripts"/>
   <shaders name="shaders"/>
   <fonts name="fonts">
-    <font>fonts\spr_font0</font>
+    <font>fonts\fon_font0</font>
   </fonts>
   <timelines name="timelines"/>
   <objects name="objects">
